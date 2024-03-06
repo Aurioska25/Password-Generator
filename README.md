@@ -11,6 +11,11 @@ This Password Generator is a simple web application built using HTML, CSS, and J
 - **Password Deletion**: Users can delete passwords from the list if they no longer need them.
 - **Responsive Design**: The application is responsive and works well on different devices and screen sizes.
 
+## Examples
+![Password Generator preview 1](https://i.imgur.com/IWOU727.png)
+![Password Generator preview 2](https://i.imgur.com/yhhJNm9.png)
+
+
 ## How to Use
 
 1. Open the HTML file (`index.html`) in any modern web browser.
